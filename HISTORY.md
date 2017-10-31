@@ -1,3 +1,7 @@
+v5.1.2-fork
+==================
+* replace content elements with slot elements for Polymer 2 compatibility
+
 v5.1.2
 ==================
 * add device flags
